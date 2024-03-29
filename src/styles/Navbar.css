@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #ff8c8c;
+    padding: 15px;
+}
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    font-size: 27px;
+}
+
+.list-item{
+    cursor: pointer;
+}
